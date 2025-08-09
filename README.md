@@ -1,4 +1,4 @@
 # demo
-This is my first demo  git repository 
-<br>
-Author : Sharath
+This is my first demo  git repository
+
+Author : Urstruly Sharath
